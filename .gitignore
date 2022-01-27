@@ -1,5 +1,6 @@
 
 .idea
 Course/1.0/Example/Data/MNIST_data
+Course/1.0/Example/Data/CIFAR-10
 Course/1.0/Example/Log
 Course/1.0/Example/Model_ckpt
